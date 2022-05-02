@@ -1,0 +1,32 @@
+{
+    "name": "BOX NFT #0",
+    "symbol": "BOX",
+    "description": "Collection of boxfish numbers on the blockchain. This is the number 0/4.",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Weird salmon gradient"
+        },
+        {
+            "trait_type": "Text",
+            "value": "Boxfish 0"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "BoX451MZzydoVdZE4NFfmMT3J5Ztqo7YgUNbwwMfjPFu",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": "BOXFISH NFT"
+}
